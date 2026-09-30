@@ -1,5 +1,5 @@
 NernexSoft
-
+#NernexSoft
 Software • AI • Automation
 
 NernexSoft is a software development company focused on building modern digital solutions for businesses.
@@ -46,3 +46,5 @@ Contact us through our official website
 «Build. Automate. Grow.
 
 NernexSoft — Technology built for business.»
+#NernexSoft #NernexSoftAi
+#NernexSoft #NernexSoftWebsite
